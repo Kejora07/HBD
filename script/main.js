@@ -113,7 +113,7 @@ const animationTimeline = () => {
         scale: 0.2,
         opacity: 0,
         y: -150,
-        delay: 2,
+        delay: 3,
       },
       "+=0.7"
     )
